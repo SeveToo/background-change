@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Background change</title>
+  </head>
+  <style>
+    #testowy p {
+      margin: 0;
+      font-weight: 500;
+    }
+    #testowy {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      width: 100%;
+      padding: 30px;
+      background: honeydew;
+      color: BLACK;
+      font-family: "Lato";
+      text-align: center;
+      transform: translate(-50%, -50%);
+      font-size: 2rem;
+      letter-spacing: 3px;
+      /* border-radius: 5px; */
+      cursor: pointer;
+      box-sizing: border-box;
+      font-weight: 900;
+      box-shadow: black 0px 0px 10px;
+    }
+    body {
+      background: green;
+      transition: 0.6s;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+  </style>
+  <body>
+    <div id="testowy">
+      STOP
+      <p id="kolor"></p>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
