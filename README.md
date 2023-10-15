@@ -1,24 +1,24 @@
 <div align="center" id="top"> 
   
 <h1 align="center">Background change</h1>
-  <a target="_blank" href="https://sevetoo.github.io/Background change/">
+  <a target="_blank" href="https://sevetoo.github.io/background-change/">
   <img src="./preview.png" alt="Color Click Game" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/Background change/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/background-change/">Demo</a>
 
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/Background change?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/background-change?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/Background change?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/background-change?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/Background change?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/background-change?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/SeveToo/Background change?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/SeveToo/background-change?color=56BEB8">
 </p>
 
 <p align="center">
@@ -53,12 +53,12 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/Background change/
+https://sevetoo.github.io/background-change/
 
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/Background change/" >click link</a> )
+or open in browser ( <a href="https://sevetoo.github.io/background-change/" >click link</a> )
 
 ## 😎 Made by
 
